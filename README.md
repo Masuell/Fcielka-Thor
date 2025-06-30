@@ -1,3 +1,3 @@
 # Fcielka-Thor
 
-You can find more information about [Bee Health Monitor device here](https://github.com/boortel/Bee-Health-Monitor).
+This repository contains programms which were used for diploma thesis about [Varroa Destructor detection on honey bees with using narrow spectra of illumination](https://www.vut.cz/studenti/zav-prace/detail/167591). The thesis is part of another project, which repository you can find [here](https://github.com/boortel/Bee-Health-Monitor). There is also docummentation for Bee Health monitor device, which was used to collect [dataset](https://www.kaggle.com/datasets/masuel/bee-hyperspectral-dataset) for this thesis. Dataset contains photos of dead bees and mites under 500 nm, 780 nm and white illumination. 
