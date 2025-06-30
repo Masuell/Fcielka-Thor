@@ -13,3 +13,5 @@ In CameraCalibration folder is Calibrator module for Bee Health Monitor device.
 ImitationOfBothColorsIllumination folder is code to simulate photos with both illumination. The pictures are composed of photos under IR and turquoise with linear regression.
 
 As detection models were used [U-net semantic segmentation architecture](https://github.com/milesial/Pytorch-UNet) and [YOLOv11](https://github.com/ultralytics/ultralytics) object detection architecture. 
+
+![Example image of input image, ground truth and prediction.](https://github.com/Masuell/Fcielka-Thor/blob/main/Images/VstupGTPredikcia.png)
